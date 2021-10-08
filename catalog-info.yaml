@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: padupe/Desafio-Conceitos_ReactJS
 spec:
-  type: other
-  lifecycle: unknown
+  type: api
+  lifecycle: production
   owner: sre
