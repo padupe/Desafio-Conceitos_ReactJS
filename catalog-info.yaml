@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Desafio-Conceitos_ReactJS
+  annotations:
+    github.com/project-slug: padupe/Desafio-Conceitos_ReactJS
+spec:
+  type: api
+  lifecycle: production
+  owner: sre
